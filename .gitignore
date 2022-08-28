@@ -1,0 +1,4 @@
+# 项目排除路径
+/demo2/target/
+/demo3/target/
+/test_design_3/target/
